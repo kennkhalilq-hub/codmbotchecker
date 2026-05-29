@@ -1,0 +1,13 @@
+{
+  "TYRANT-937FD129-E572": {
+    "max_users": 1,
+    "used_by": [
+      "5943498178"
+    ],
+    "duration_type": "lifetime",
+    "duration_val": 0,
+    "expires_at": null,
+    "created_at": "2026-05-28T21:43:36.098230",
+    "created_by": 6733600097
+  }
+}
